@@ -9,4 +9,4 @@ def divisors(n):
                 divs += [i]
     return divs
 
-print(*divisors(6))
+print(*divisors(26))
